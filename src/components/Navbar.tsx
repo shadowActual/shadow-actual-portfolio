@@ -1,5 +1,6 @@
 "use client"
 
+import { Redirection } from "@/utils/constants/redirection";
 import { useState } from "react";
 import { FiMoreVertical } from "react-icons/fi";
 import { IoClose } from "react-icons/io5";
@@ -37,7 +38,7 @@ const Navbar: React.FC = () => {
                         <ul className="space-y-8">
                             <li>
                                 <a
-                                    href="/projects"
+                                    href={Redirection.PROJECTS}
                                     className="text-8xl font-bold text-white hover:text-blue-400 transition-colors"
                                 >
                                     Projects
@@ -45,7 +46,7 @@ const Navbar: React.FC = () => {
                             </li>
                             <li>
                                 <a
-                                    href="/education"
+                                    href={Redirection.EDUCATION}
                                     className="text-8xl font-bold text-white hover:text-blue-400 transition-colors"
                                 >
                                     Education
@@ -53,7 +54,7 @@ const Navbar: React.FC = () => {
                             </li>
                             <li>
                                 <a
-                                    href="/contact"
+                                    href={Redirection.CONTACT}
                                     className="text-8xl font-bold text-white hover:text-blue-400 transition-colors"
                                 >
                                     Contact
