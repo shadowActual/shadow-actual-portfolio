@@ -1,6 +1,21 @@
 {
     "name": "MD Amirul Islam",
+    "shortName": "Amirul",
+    "callSign": "AI",
+    "specialization": "Full Stack Developer",
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
     "companyName": "Datalytics Labs",
+    "heroShortIntro": "I am experienced Software Engineer with 2.5+ years in the field, collaborated with various companies and startups to develop and maintain their software products.",
+    "servicesShortList": [
+        "Web Development",
+        "Mobile Development",
+        "Middleware Development",
+        "API Development",
+        "Database Management",
+        "Machine Learning",
+        "Data Synthesis"
+    ],
     "email": "islamamirul497@gmail.com",
     "socialLinks": {
         "github": "https://github.com/oliviasmith",
