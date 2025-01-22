@@ -30,7 +30,7 @@ const TopNavbar: React.FC = () => {
                     }
                 });
             },
-            { root: null, rootMargin: '0px', threshold: 0.6 } // Trigger when 60% of section is visible
+            { root: null, rootMargin: '0px', threshold: 0.6 }
         );
 
         sections.forEach((section) => observer.observe(section));
@@ -47,7 +47,7 @@ const TopNavbar: React.FC = () => {
         // }
 
         >
-            <div className="flex justify-between items-center p-2 w-full mx-auto text-white">
+            <div className="flex justify-between items-center p-2 w-full mx-auto text-tertiary_text">
                 {/* Logo and Title */}
                 <div className="text-2xl font-bold flex items-center">
                     <div
@@ -63,8 +63,17 @@ const TopNavbar: React.FC = () => {
                 <ul className="flex space-x-4">
                     <li>
                         <a
+                            href="#skills"
+                            className={`hover:underline ${activeSection === 'skills' ? 'text-secondary font-bold' : 'text-tertiary_text'
+                                }`}
+                        >
+                            Skills
+                        </a>
+                    </li>
+                    <li>
+                        <a
                             href="#services"
-                            className={`hover:underline ${activeSection === 'services' ? 'text-secondary font-bold' : 'text-white'
+                            className={`hover:underline ${activeSection === 'services' ? 'text-secondary font-bold' : 'text-tertiary_text'
                                 }`}
                         >
                             Services
@@ -73,7 +82,7 @@ const TopNavbar: React.FC = () => {
                     <li>
                         <a
                             href="#projects"
-                            className={`hover:underline ${activeSection === 'projects' ? 'text-secondary font-bold' : 'text-white'
+                            className={`hover:underline ${activeSection === 'projects' ? 'text-secondary font-bold' : 'text-tertiary_text'
                                 }`}
                         >
                             Projects
@@ -82,7 +91,7 @@ const TopNavbar: React.FC = () => {
                     <li>
                         <a
                             href="#contact"
-                            className={`hover:underline ${activeSection === 'contact' ? 'text-secondary font-bold' : 'text-white'
+                            className={`hover:underline ${activeSection === 'contact' ? 'text-secondary font-bold' : 'text-tertiary_text'
                                 }`}
                         >
                             Contact

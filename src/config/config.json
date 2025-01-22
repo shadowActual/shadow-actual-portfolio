@@ -16,6 +16,36 @@
         "Machine Learning",
         "Data Synthesis"
     ],
+    "topSkills": [
+        {
+            "name": ".Net Core",
+            "src": "/icons/dotnet.svg"
+        },
+        {
+            "name": "Python",
+            "src": "/icons/python.png"
+        },
+        {
+            "name": "Django",
+            "src": "/icons/django.png"
+        },
+        {
+            "name": "React",
+            "src": "/icons/react.png"
+        },
+        {
+            "name": "React Native",
+            "src": "/icons/react_native.png"
+        },
+        {
+            "name": "Node.js",
+            "src": "/icons/nodejs.png"
+        },
+        {
+            "name": "Express.js",
+            "src": "/icons/expressjs.png"
+        }
+    ],
     "email": "islamamirul497@gmail.com",
     "socialLinks": {
         "github": "https://github.com/oliviasmith",

@@ -1,7 +1,7 @@
 import ContactForm from "@/components/ContactForm";
 import HeroSection from "@/components/HeroSection";
 import ProjectsSection from "@/components/ProjectsSection";
-import ServicesSection from "@/components/ServicesSection";
+import SkillSection from "@/components/SkillSection";
 import TopNavbar from "@/components/TopNavbar";
 
 export default function Home() {
@@ -9,7 +9,7 @@ export default function Home() {
     <>
       <TopNavbar />
       <HeroSection />
-      <ServicesSection />
+      <SkillSection />
       <ProjectsSection />
       <ContactForm />
     </>
