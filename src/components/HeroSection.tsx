@@ -40,7 +40,6 @@ const HeroSection: React.FC = () => {
             </div>
           </div>
         </div>
-
       </section>
       <div className="relative">
         <div className="h-16 bg-primary transform -skew-y-2 origin-bottom-center"></div>

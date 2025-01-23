@@ -72,15 +72,6 @@ const TopNavbar: React.FC = () => {
                     </li>
                     <li>
                         <a
-                            href="#services"
-                            className={`hover:underline ${activeSection === 'services' ? 'text-secondary font-bold' : 'text-tertiary_text'
-                                }`}
-                        >
-                            Services
-                        </a>
-                    </li>
-                    <li>
-                        <a
                             href="#projects"
                             className={`hover:underline ${activeSection === 'projects' ? 'text-secondary font-bold' : 'text-tertiary_text'
                                 }`}

@@ -22,28 +22,43 @@
             "src": "/icons/dotnet.svg"
         },
         {
-            "name": "Python",
-            "src": "/icons/python.png"
+            "name": "Express.js",
+            "src": "/icons/expressjs.png"
         },
         {
-            "name": "Django",
-            "src": "/icons/django.png"
+            "name": "Next.js",
+            "src": "/icons/nextjs.png"
         },
         {
-            "name": "React",
-            "src": "/icons/react.png"
+            "name": "PostgreSQL",
+            "src": "/icons/postgresql.png"
         },
         {
-            "name": "React Native",
-            "src": "/icons/react_native.png"
+            "name": "MySQL",
+            "src": "/icons/mysql.png"
+        },
+        {
+            "name": "MongoDB",
+            "src": "/icons/mongodb.png"
         },
         {
             "name": "Node.js",
             "src": "/icons/nodejs.png"
+        }
+    ],
+    "startOfCareer": "20/8/2021",
+    "services": [
+        {
+            "title": "App Design",
+            "description": "Creating user-friendly mobile apps.Creating user-friendly mobile apps.Creating user-friendly mobile apps.Creating user-friendly mobile apps."
         },
         {
-            "name": "Express.js",
-            "src": "/icons/expressjs.png"
+            "title": "Website Design",
+            "description": "Crafting modern websites."
+        },
+        {
+            "title": "Dashboard",
+            "description": "Designing custom dashboards."
         }
     ],
     "email": "islamamirul497@gmail.com",
