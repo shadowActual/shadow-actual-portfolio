@@ -1,8 +1,8 @@
 import AboutMe from "@/components/AboutMe";
-import ContactForm from "@/components/ContactForm";
+import { ConnectSection } from "@/components/ConnectSection";
 import { Footer } from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
-import ProjectsSection from "@/components/ProjectsSection";
+import { NextProject } from "@/components/NextProject";
 import ServicesSection from "@/components/ServicesSection";
 import SkillSection from "@/components/SkillSection";
 import TopNavbar from "@/components/TopNavbar";
@@ -15,8 +15,8 @@ export default function Home() {
       <ServicesSection />
       <AboutMe />
       <SkillSection />
-      <ProjectsSection />
-      <ContactForm />
+      <NextProject />
+      <ConnectSection />
       <Footer />
     </>
   );

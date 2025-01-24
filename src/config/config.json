@@ -23,27 +23,27 @@
         },
         {
             "name": "Express.js",
-            "src": "/icons/expressjs.png"
+            "src": "/icons/expressjs.svg"
         },
         {
             "name": "Next.js",
-            "src": "/icons/nextjs.png"
-        },
-        {
-            "name": "PostgreSQL",
-            "src": "/icons/postgresql.png"
-        },
-        {
-            "name": "MySQL",
-            "src": "/icons/mysql.png"
-        },
-        {
-            "name": "MongoDB",
-            "src": "/icons/mongodb.png"
+            "src": "/icons/nextjs.svg"
         },
         {
             "name": "Node.js",
-            "src": "/icons/nodejs.png"
+            "src": "/icons/nodejs.svg"
+        },
+        {
+            "name": "PostgreSQL",
+            "src": "/icons/postgresql.svg"
+        },
+        {
+            "name": "MySQL",
+            "src": "/icons/mysql.svg"
+        },
+        {
+            "name": "MongoDB",
+            "src": "/icons/mongodb.svg"
         }
     ],
     "startOfCareer": "20/8/2021",
@@ -61,6 +61,37 @@
             "description": "Designing custom dashboards."
         }
     ],
+    "socialMedia": [
+        {
+            "name": "GitHub",
+            "icon": "/icons/github.svg",
+            "link": "https://github.com/MDAmir159",
+            "username": "MDAmir159"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "/icons/linkedin.svg",
+            "link": "https://www.linkedin.com/in/md-amirul-islam-ab8570174/",
+            "username": "MD Amirul Islam"
+        },
+        {
+            "name": "Facebook",
+            "icon": "/icons/facebook.svg",
+            "link": "https://www.facebook.com/profile.php?id=100026922738942",
+            "username": "MD Amirul Islam"
+        },
+        {
+            "name": "WhatsApp",
+            "icon": "/icons/whatsapp.svg",
+            "link": "https://wa.me/8801306229664",
+            "username": "MD Amirul Islam"
+        }
+    ],
+    "contact": {
+        "email": "islamamirul497@gmail.com",
+        "phone": "+880 130 622 9664",
+        "address": "Dhaka, Bangladesh"
+    },
     "email": "islamamirul497@gmail.com",
     "socialLinks": {
         "github": "https://github.com/oliviasmith",

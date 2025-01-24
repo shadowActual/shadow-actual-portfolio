@@ -17,7 +17,7 @@ const SkillSection: React.FC = () => {
               <div
                 key={index}
                 className="bg-secondary_bg text-quaternary_text flex flex-col items-center px-3"
-                style={{ borderRadius: "50px", paddingTop: "1rem", paddingBottom: "2rem" }}
+                style={{ borderRadius: "20px", paddingTop: "1rem", paddingBottom: "2rem" }}
               >
 
                 <div className="rounded-full h-20 w-20 bg-primary_bg flex items-center justify-center">
