@@ -89,36 +89,36 @@
     ],
     "education": [
             {
-                "year": "2012 - 2014",
-                "organization": "Harmony Institute",
-                "role": "Master in Visual Arts"
+                "year": "2023 - 2018",
+                "organization": "Rajshahi University of Engineering & Technology",
+                "role": "Bachelor in Computer Science and Engineering"
             },
             {
-                "year": "2008 - 2012",
-                "organization": "Aurora Academy",
-                "role": "Master in Visual Arts"
+                "year": "2017 - 2015",
+                "organization": "Notre Dame College, Dhaka",
+                "role": "Collegiate program in Science"
             },
             {
-                "year": "1996 - 2008",
-                "organization": "Crystalbrook",
-                "role": "Master in Visual Arts"
+                "year": "2010 - 2015",
+                "organization": "Hasan Ali Govt. High School",
+                "role": "School program in Science"
             }
         ],
         "workExperience": [
             {
-                "year": "2018 - 2024",
-                "organization": "Insightlancer",
-                "role": "Master in Visual Arts"
+                "year": "2023 - Present",
+                "organization": "Datalytics Labs",
+                "role": "Team Lead of Frontend Team"
             },
             {
-                "year": "2016 - 2018",
-                "organization": "Self-Employed",
-                "role": "Master in Visual Arts"
+                "year": "2022 - 2023",
+                "organization": "Code Studio",
+                "role": "Software Engineer"
             },
             {
-                "year": "2014 - 2016",
-                "organization": "KG Graphics Studio",
-                "role": "Master in Visual Arts"
+                "year": "Aug 2021 - Nov 2021",
+                "organization": "Diligite",
+                "role": "Software Trainee"
             }
     ],
     "contact": {

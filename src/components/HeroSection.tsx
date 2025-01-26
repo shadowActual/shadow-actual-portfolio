@@ -10,14 +10,22 @@ const HeroSection: React.FC = () => {
       >
         <div className='flex items-center justify-center'>
           <div className="container mx-auto px-1 w-[60%]">
-            <div className='text-4xl'>Hello There!</div>
+            <div className="text-3xl relative border-2 border-quaternary_text w-[30%] flex items-center justify-center p-2">
+              <text>Hello There!</text>
+              <div className="absolute bg-secondary border-quaternary_text border-2 h-[10px] w-[10px] top-[-5px] left-[-5px]"></div>
+              <div className="absolute bg-secondary border-quaternary_text border-2 h-[10px] w-[10px] top-[-5px] right-[-5px]"></div>
+              <div className="absolute bg-secondary border-quaternary_text border-2 h-[10px] w-[10px] bottom-[-5px] left-[-5px]"></div>
+              <div className="absolute bg-secondary border-quaternary_text border-2 h-[10px] w-[10px] bottom-[-5px] right-[-5px]"></div>
+            </div>
+
+
             <div className='text-6xl pt-4 font-bold'>I am <text className='text-secondary italic underline'>{AppConfig.name},</text></div>
             <div className='text-6xl font-bold'>{AppConfig.specialization}</div>
             <div className='text-6xl font-bold'>Based in {AppConfig.country}</div>
             <div className='text-secondary_text text-2xl pt-6'>{AppConfig.heroShortIntro}</div>
             <div className='flex gap-4 pt-5'>
               <div className="flex items-center justify-center">
-                <button className="flex items-center bg-secondary text-tertiary_text text-2px rounded-full px-1 py-1 space-x-2 hover:bg-yellow-500">
+                <button className="flex items-center bg-secondary text-tertiary_text text-2px rounded-full px-1 py-1 space-x-2 hover:bg-secondary">
                   <span className="bg-primary text-tertiary_tx px-6 py-2 rounded-full">
                     View My CV
                   </span>
