@@ -1,5 +1,6 @@
 import AboutMe from "@/components/AboutMe";
 import { ConnectSection } from "@/components/ConnectSection";
+import EduCareerSection from "@/components/EduCareerSection";
 import { Footer } from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import { NextProject } from "@/components/NextProject";
@@ -15,6 +16,7 @@ export default function Home() {
       <ServicesSection />
       <AboutMe />
       <SkillSection />
+      <EduCareerSection />
       <NextProject />
       <ConnectSection />
       <Footer />

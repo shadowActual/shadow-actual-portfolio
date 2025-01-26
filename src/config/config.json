@@ -87,6 +87,40 @@
             "username": "MD Amirul Islam"
         }
     ],
+    "education": [
+            {
+                "year": "2012 - 2014",
+                "organization": "Harmony Institute",
+                "role": "Master in Visual Arts"
+            },
+            {
+                "year": "2008 - 2012",
+                "organization": "Aurora Academy",
+                "role": "Master in Visual Arts"
+            },
+            {
+                "year": "1996 - 2008",
+                "organization": "Crystalbrook",
+                "role": "Master in Visual Arts"
+            }
+        ],
+        "workExperience": [
+            {
+                "year": "2018 - 2024",
+                "organization": "Insightlancer",
+                "role": "Master in Visual Arts"
+            },
+            {
+                "year": "2016 - 2018",
+                "organization": "Self-Employed",
+                "role": "Master in Visual Arts"
+            },
+            {
+                "year": "2014 - 2016",
+                "organization": "KG Graphics Studio",
+                "role": "Master in Visual Arts"
+            }
+    ],
     "contact": {
         "email": "islamamirul497@gmail.com",
         "phone": "+880 130 622 9664",
