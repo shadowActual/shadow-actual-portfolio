@@ -4,6 +4,7 @@ import EduCareerSection from "@/components/EduCareerSection";
 import { Footer } from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import { NextProject } from "@/components/NextProject";
+import ProjectsSection from "@/components/ProjectsSection";
 import ServicesSection from "@/components/ServicesSection";
 import SkillSection from "@/components/SkillSection";
 import TopNavbar from "@/components/TopNavbar";
@@ -16,6 +17,7 @@ export default function Home() {
       <ServicesSection />
       <AboutMe />
       <SkillSection />
+      <ProjectsSection />
       <EduCareerSection />
       <NextProject />
       <ConnectSection />

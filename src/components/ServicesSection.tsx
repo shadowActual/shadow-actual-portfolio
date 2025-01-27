@@ -5,7 +5,7 @@ import React from 'react';
 
 const ServicesSection: React.FC = () => {
   return (
-    <section id="services" className="py-20 bg-primary_bg text-gray-800">
+    <section id="services" className="py-20 bg-primary_bg">
       <div className="container mx-auto px-4 w-[80%]">
         <div className='text-2xl text-quaternary_text'> <span className='text-secondary'>-</span> Services</div>
         <div className='flex justify-between'>

@@ -88,38 +88,76 @@
         }
     ],
     "education": [
-            {
-                "year": "2023 - 2018",
-                "organization": "Rajshahi University of Engineering & Technology",
-                "role": "Bachelor in Computer Science and Engineering"
-            },
-            {
-                "year": "2017 - 2015",
-                "organization": "Notre Dame College, Dhaka",
-                "role": "Collegiate program in Science"
-            },
-            {
-                "year": "2010 - 2015",
-                "organization": "Hasan Ali Govt. High School",
-                "role": "School program in Science"
-            }
-        ],
-        "workExperience": [
-            {
-                "year": "2023 - Present",
-                "organization": "Datalytics Labs",
-                "role": "Team Lead of Frontend Team"
-            },
-            {
-                "year": "2022 - 2023",
-                "organization": "Code Studio",
-                "role": "Software Engineer"
-            },
-            {
-                "year": "Aug 2021 - Nov 2021",
-                "organization": "Diligite",
-                "role": "Software Trainee"
-            }
+        {
+            "year": "2023 - 2018",
+            "organization": "Rajshahi University of Engineering & Technology",
+            "role": "Bachelor in Computer Science and Engineering"
+        },
+        {
+            "year": "2017 - 2015",
+            "organization": "Notre Dame College, Dhaka",
+            "role": "Collegiate program in Science"
+        },
+        {
+            "year": "2010 - 2015",
+            "organization": "Hasan Ali Govt. High School",
+            "role": "School program in Science"
+        }
+    ],
+    "workExperience": [
+        {
+            "year": "2023 - Present",
+            "organization": "Datalytics Labs",
+            "role": "Team Lead of Frontend Team"
+        },
+        {
+            "year": "2022 - 2023",
+            "organization": "Code Studio",
+            "role": "Software Engineer"
+        },
+        {
+            "year": "Aug 2021 - Nov 2021",
+            "organization": "Diligite",
+            "role": "Software Trainee"
+        }
+    ],
+    "projects": [
+        {
+            "title": "E-commerce App",
+            "image": "/images/aspdotnet.jpg",
+            "tags": [
+                "asdf",
+                "asdf",
+                "asdfs"
+            ]
+        },
+        {
+            "title": "Product Landing Page",
+            "image": "/images/aspdotnet.jpg",
+            "tags": [
+                "asdf",
+                "asdf",
+                "asdfs"
+            ]
+        },
+        {
+            "title": "Portfolio Website",
+            "image": "/images/aspdotnet.jpg",
+            "tags": [
+                "asdf",
+                "asdf",
+                "asdfs"
+            ]
+        },
+        {
+            "title": "Portfolio Website",
+            "image": "/images/aspdotnet.jpg",
+            "tags": [
+                "asdf",
+                "asdf",
+                "asdfs"
+            ]
+        }
     ],
     "contact": {
         "email": "islamamirul497@gmail.com",
