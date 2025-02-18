@@ -88,6 +88,15 @@ const TopNavbar: React.FC = () => {
                             Contact
                         </a>
                     </li>
+                    <li>
+                        <a
+                            href="#career"
+                            className={`hover:underline ${activeSection === 'contact' ? 'text-secondary font-bold' : 'text-tertiary_text'
+                                }`}
+                        >
+                            Career
+                        </a>
+                    </li>
                 </ul>
 
                 {/* Contact Me Button */}
